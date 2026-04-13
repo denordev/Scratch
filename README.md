@@ -2,6 +2,9 @@
 
 Android sample app that implements a **scratch-to-reveal** card in **Jetpack Compose**: the user drags on a top “foil” layer; an image underneath appears through the scratched path. When enough of the visible area is covered, the overlay can fade out (“vanish”).
 
+## Demo
+
+https://github.com/user-attachments/assets/ce5239df-3484-481d-be73-eaced10f920c
 
 ## What’s in this project
 
